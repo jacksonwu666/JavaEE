@@ -9,8 +9,6 @@ public class SwitchHomework {
         int grade = sc.nextInt();
         switch(grade/10){
             case 10:
-                System.out.println("A级");
-                break;
             case 9:
                 System.out.println("A级");
                 break;
