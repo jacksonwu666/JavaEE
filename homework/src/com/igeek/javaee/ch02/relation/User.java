@@ -23,7 +23,7 @@ public class User {
 
 
     public void addOrder(Order order){
-        System.out.println("用户姓名"+name);
+        System.out.println("用户姓名:"+name);
         order.showGoods();
 
     }
